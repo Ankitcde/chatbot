@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "duration": "5:55",
+    "file": "/songs/bohemian-rhapsody.mp3",
+    "genre": "Rock"
+  },
+  {
+    "id": 2,
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "duration": "8:02",
+    "file": "/songs/stairway-to-heaven.mp3",
+    "genre": "Rock"
+  },
+  {
+    "id": 3,
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "duration": "6:30",
+    "file": "/songs/hotel-california.mp3",
+    "genre": "Rock"
+  },
+  {
+    "id": 4,
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "album": "Imagine",
+    "duration": "3:03",
+    "file": "/songs/imagine.mp3",
+    "genre": "Pop"
+  },
+  {
+    "id": 5,
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "duration": "4:54",
+    "file": "/songs/billie-jean.mp3",
+    "genre": "Pop"
+  },
+  {
+    "id": 6,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "÷ (Divide)",
+    "duration": "3:53",
+    "file": "/songs/shape-of-you.mp3",
+    "genre": "Pop"
+  },
+  {
+    "id": 7,
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "duration": "5:01",
+    "file": "/songs/smells-like-teen-spirit.mp3",
+    "genre": "Grunge"
+  },
+  {
+    "id": 8,
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "album": "What's the Story Morning Glory?",
+    "duration": "4:18",
+    "file": "/songs/wonderwall.mp3",
+    "genre": "Britpop"
+  },
+  {
+    "id": 9,
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Time Out",
+    "duration": "5:24",
+    "file": "/songs/take-five.mp3",
+    "genre": "Jazz"
+  },
+  {
+    "id": 10,
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "album": "8 Mile",
+    "duration": "5:26",
+    "file": "/songs/lose-yourself.mp3",
+    "genre": "Hip-Hop"
+  },
+  {
+    "id": 11,
+    "title": "Moonlight Sonata",
+    "artist": "Ludwig van Beethoven",
+    "album": "Piano Sonatas",
+    "duration": "14:15",
+    "file": "/songs/moonlight-sonata.mp3",
+    "genre": "Classical"
+  }
+]
